@@ -1,0 +1,16 @@
+Features:
+- SQL Injection (Error, Boolean, Time, UNION)
+- XSS (Reflected, Stored, DOM-based)
+- LFI/RFI (Path Traversal)
+- Command Injection
+- XXE, SSRF, CSRF
+- Directory Bruteforce
+- Sensitive File Detection
+- CMS Detection (WordPress, Joomla, Drupal, Magento)
+- WAF Detection & Bypass
+- SSL/TLS Analysis
+- WHOIS Information
+- HTTP Method Testing
+- Multi-threaded Crawling
+- NO LOW-severity findings
+- SSL bypass enabled
