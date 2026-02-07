@@ -4,7 +4,7 @@ Features:
 - LFI/RFI (Path Traversal)
 - Command Injection
 - XXE, SSRF, CSRF
-- Directory Bruteforce
+- Directory Bruteforce 
 - Sensitive File Detection
 - CMS Detection (WordPress, Joomla, Drupal, Magento)
 - WAF Detection & Bypass
